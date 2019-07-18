@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/xginny0835/xginnyPJ0716/_apis/build/status/xginnyPJ0716-Maven-CI?branchName=master)](https://dev.azure.com/xginny0835/xginnyPJ0716/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
